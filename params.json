@@ -1,0 +1,6 @@
+{
+  "name": "YujunBlog",
+  "tagline": "测试一篇个人博客",
+  "body": "### 这是什么页面？\r\n这是玉君的一个测试文档，看看很久没有使用的主页是否可以使用，同时可以将自己的一些信息积累写上去，这样自己的个人主页就可以啦~\r\n\r\n### 一点点简单的介绍\r\n使用markdown来写博客，然后发布出去，也是很有趣的尝试，虽然自己不是特别geek，但是还是特别愿意保持新的触角，获得不同知识内容。\r\n\r\n### 感谢\r\n感谢github提供空间工具，可以这么方便的就生成内容。\r\n\r\n### 联系方式\r\nyujunc@gmail.com； 欢迎随时交流骚扰~~~",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
